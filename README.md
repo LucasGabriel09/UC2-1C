@@ -23,4 +23,5 @@ Atividade 3: Trello / Projetos
 Atividade  4: TypeScript 
 - [Grupo](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit?utm_content=DAGEjUJ54Pc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
+Atividade 5: Canvas Business Model
+- [Individual](https://www.canva.com/design/DAGFt4Y3Cqo/yD8fDN6cKGDzjSeRpmbSkA/edit?utm_content=DAGFt4Y3Cqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
