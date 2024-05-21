@@ -25,3 +25,6 @@ Atividade  4: TypeScript
 
 Atividade 5: Canvas Business Model
 - [Individual](https://www.canva.com/design/DAGFt4Y3Cqo/yD8fDN6cKGDzjSeRpmbSkA/edit?utm_content=DAGFt4Y3Cqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Atividade 6: Emprego dos Sonhos
+- [Individual](https://docs.google.com/document/d/12vLQg5u1wokTrTtI-87YLvPFbvCmyp5250VAkQ6ZgAk/edit)
