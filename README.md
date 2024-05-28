@@ -20,11 +20,14 @@ Atividade 2: Trello / Metas Pessoais
 Atividade 3: Trello / Projetos
 - [Grupo](https://trello.com/invite/b/ksOulXjE/ATTIb4c15ec3d2f01fa04db57696cd8d70b9CD13B4E9/gerenciamento-de-projetos)
 
-Atividade  4: TypeScript 
+Atividade  4: TypeScript / Canva
 - [Grupo](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit?utm_content=DAGEjUJ54Pc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Atividade 5: Canvas Business Model
+Atividade 5: Canvas Business Model / Canva
 - [Individual](https://www.canva.com/design/DAGFt4Y3Cqo/yD8fDN6cKGDzjSeRpmbSkA/edit?utm_content=DAGFt4Y3Cqo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Atividade 6: Emprego dos Sonhos
+Atividade 6: Emprego dos Sonhos / Docs
 - [Individual](https://docs.google.com/document/d/12vLQg5u1wokTrTtI-87YLvPFbvCmyp5250VAkQ6ZgAk/edit)
+
+Atividade 7: Diagrama de Grantt / Excel
+- [Grupo](https://docs.google.com/spreadsheets/d/18Thweyuc9fVT3xZkbEqYfIW2ajxJWD0737ATBQjTGLc/edit?usp=sharing)
